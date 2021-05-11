@@ -1,4 +1,10 @@
 # findsha1
 
 
-java\jdk\jre
+cmd  >>   java\jdk\jre
+
+
+
+
+
+https://tomeko.net/online_tools/hex_to_base64.php
